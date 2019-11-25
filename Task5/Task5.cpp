@@ -13,6 +13,8 @@ int main() {
 	char search_char = ' ';
 	char replace_char = '_';
 
+	std::cout << "'" << search_char << "' will be replaces with '" << replace_char << "'" << std::endl;
+
 	std::cout << "Before: " << char_array << std::endl;
 
 	replace_chars(char_array, search_char, replace_char);
