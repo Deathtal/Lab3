@@ -1,9 +1,15 @@
-Name:	Herman Åberg
+Name:	Herman Ã…berg
 Course: D0037D
 
 Reflection:
 	
-	I'll be brief. It took me around 5 hour to complete this lab. If I din't have migraine while doing it, it would probably only take me 3 hours or so to complete. A lot of the tasks being just redoing an old task but with pointers instead meant that most of it is just copy-pasting and then doing some small changes. Didn't really take that much effort.
+	I'll be somewhat brief. It took me around 5 hour to complete this lab. If I din't have migraine while doing it, it would probably
+	only take me 3 hours or so to complete. A lot of the tasks being just redoing an old task but with pointers instead meant that
+	most of it was just copy-pasting and then doing some small changes. Didn't really take that much effort.
 
-	Something I would've liked to see more of in this lab is using double pointers and such. I also would like to have better tasks that you need to use double pointers to achieve the correct result. There isn't really a reason to use double pointers when all you want is sort 3 values. If there is a good reason for it then I would like to know why.
-	I would like a task where you input multiple words each stored in a char*, then making a sentence of them in a char **, then having a monologue char***, etc. I straight up stole this from stackoverflow, but I belive that it would give a better picture of what using pointers to pointers can be used for.
+	I would like a task where you, for example, input multiple words each stored in a char*, then making a sentence of them in a char 
+	**, then having them stored in a monologue char***, etc. I straight up stole this from stackoverflow, but I belive that it would 
+	give a better picture of what using pointers to pointers can be used for. Right now Task 4 required you to use double pointers for 
+	a task that you've already completed before, so very clearly it's not required to get the desired result(except for complying to 
+	the task). My point(er) is that that having a task that, instead of doing some small changes to an already completed task, you 
+	instead use double pointers to solve a problem that can not be solved efficiently in ways we've already learned previously.
